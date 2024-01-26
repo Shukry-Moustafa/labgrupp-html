@@ -54,7 +54,7 @@ header {
 .navigation a:hover {
     opacity: 100%;
     color: rgb(67, 67, 154);
-    transition: all 1.5s;
+    transition: all 1s;
 }
 
 
