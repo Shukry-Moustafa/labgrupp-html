@@ -47,11 +47,14 @@ header {
     font-size: 1.1em;
     font-weight: 500;
     padding-left: 30px;
+    opacity: 80%;
 
 }
 
 .navigation a:hover {
+    opacity: 100%;
     color: rgb(67, 67, 154);
+    transition: all 1.5s;
 }
 
 
